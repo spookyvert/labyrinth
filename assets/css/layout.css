@@ -26,7 +26,7 @@ body #wrapper {/* used by RTL*/
 }
 
 #pc{
-	font-family: pc;
+	  font-family: pc;
     font-size: 4em;
     padding: 10px;
 }
